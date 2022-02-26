@@ -47,9 +47,18 @@ As with all real-world data, the dataset had some missing values and flaws, whic
 ### TOP 10 Trade markets in terms of values Year 2020
 
 
+
+
+
+
 ![image](https://user-images.githubusercontent.com/76862496/155849938-1ae1f5ad-efed-4afa-b5e3-648ece08f45a.png)
 
 ### Line plot of value over time (month) Year 2020
+
+
+
+
+
 
 
 ![image](https://user-images.githubusercontent.com/76862496/155849949-44375a41-fbfc-4614-ba25-996b4ce965e2.png)
@@ -57,9 +66,18 @@ As with all real-world data, the dataset had some missing values and flaws, whic
 ### TOP 10 Trade markets over the year from 2017 to 2021
 
 
+
+
+
+
+
 ![image](https://user-images.githubusercontent.com/76862496/155849967-35e78f8e-e148-42a7-9c83-cb137201b520.png)
 
 ### TOP 10 Countries Japan exports the highest in terms of values Year 2017-2021
+
+
+
+
 
 
 ![image](https://user-images.githubusercontent.com/76862496/155849975-180fc08f-ee8c-48e9-a36d-1321f90fd2eb.png)
@@ -67,9 +85,18 @@ As with all real-world data, the dataset had some missing values and flaws, whic
 ### TOP 10 Countries Japan imports the highest in terms of values Year 2017-2021
 
 
+
+
+
+
+
 ![image](https://user-images.githubusercontent.com/76862496/155849982-69fdd1e3-4715-4fcb-9668-bf6f89696ee3.png)
 
 ### Line plot of value over time (year)
+
+
+
+
 
 
 ### 1.7 Building a Linear Model
@@ -78,6 +105,11 @@ As with all real-world data, the dataset had some missing values and flaws, whic
 
 ### Heatmap of Correlation
 
+
+
+
+
+
 As is visible from the pairplot and the heatmap, the variable Q2 seems to be most correlated with Values, so we performed simple linear regression using Q2 as our feature variable.
  
 ![image](https://user-images.githubusercontent.com/76862496/155849733-2ed1d00f-bf6e-41d4-a226-7ffbe82f6e75.png)
@@ -85,9 +117,18 @@ As is visible from the pairplot and the heatmap, the variable Q2 seems to be mos
 ### Checking relationship between features and target variables
 
 
+
+
+
+
+
 ![image](https://user-images.githubusercontent.com/76862496/155849701-93fb0d7a-f16d-4281-9bba-79e2ce8fa59d.png)
  
 ### R2_score and MAE
+
+
+
+
 
 
 ### 1.9	Conclusion 
